@@ -54,7 +54,7 @@ This project analyzes 9,993 B2B SaaS transactions from a global AWS SaaS company
 - Interactive KPI dashboard with slicers for Region and Segment
 
 ### Dashboard Preview
-> ![Dashboard](excel/screenshots/dashboard.png)
+> ![Dashboard](excel/AWS-DASHBOARD.jpg)
 
 ### Skills Demonstrated
 - Power Query M transformations (conditional columns, custom columns, locale-based type casting)
